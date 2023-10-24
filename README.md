@@ -1,10 +1,14 @@
-# new-branch
-steps to install 
-step 1: clone repository
-      clone repository name
-step 2: cd into cloned repository
- cd my-app
-step 3: use npm install to dependencies
-npm install
-step 4: use npm start to start local server
-npm start
+# Cart
+## Steps To Run 
+- Step 1: clone repository
+  
+       git clone https://github.com/cholaraju/cart 
+- Step 2: go to my-app directory
+
+        cd store/my-app
+- Step 3: Install Dependencies
+
+        npm install
+- Step 4: Start The Local Server
+
+      npm start
