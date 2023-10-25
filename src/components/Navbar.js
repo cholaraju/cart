@@ -10,7 +10,7 @@ const Navbar = () => {
         justifyContent: "space-between",
       }}
     >
-      <span className="logo">REDUX STORE</span>
+      <span className="logo"> VIJAY SHANKER CLOTH STORE</span>
       <div>
         <Link className="navLink" to="/">
           Home
