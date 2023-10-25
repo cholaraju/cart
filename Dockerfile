@@ -2,9 +2,8 @@ FROM node:21-alpine
 
 WORKDIR /app/
 
-COPY public/ /app/public
-COPY src/ /app/src
-COPY package.json /app/package.json
+COPY .  .
+COPY package*.json /app
 
 RUN npm install
 
