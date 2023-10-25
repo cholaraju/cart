@@ -25,7 +25,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  gap:10px;
+  gap: 10px;
 }
 
 .btn {
@@ -73,4 +73,9 @@ img {
   width: auto;
   flex: 1 0 24%;
   min-width: 14em;
+}
+
+img {
+  height: 12em;
+  width: 10em;
 }
